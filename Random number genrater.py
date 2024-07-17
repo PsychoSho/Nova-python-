@@ -1,8 +1,8 @@
-print("Did you want to genrate a random number? between 0 to 99")
+print("Did you want to generate a random number? between 0 to 99")
 print("Yeah Or Nope")
 ans = input()
 
-if ans == "Yeah":
+if ans == "yeah":
     while 3 > 2:
     
      import random
@@ -11,9 +11,9 @@ if ans == "Yeah":
     
      print("objective is done!")
      break
-elif ans == ("Nope"):
-     print("Okay, when you want to genrate a random number restart the system.")
+elif ans == ("nope"):
+     print("Okay, when you want to generate a random number restart the system.")
 
 else:
     print("Cant recognise input please try again.")
-print("System Shuting Down!")
+print("System Shutting Down!")
