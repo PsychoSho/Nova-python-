@@ -55,17 +55,13 @@ elif user_name == "jatin":
 elif user_name == "jingyeul hwang":
    print("hii yanndch")
 
-
-
-
-
-
 else:
     print("Hello " + user_name +  " can i ask you a question")
     input()
 
 
 print("what is your age?")
+
 
 
 
